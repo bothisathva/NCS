@@ -1,0 +1,36 @@
+
+body {
+  font-family: Arial, sans-serif;
+ 
+}
+.two{
+    font-size: 60px;
+}
+.one{
+    color: lightgreen;
+}
+
+
+.logo {
+  font-size: 1.5rem;
+}
+
+.hero-section {
+  background-color: #f8f9fa;
+}
+.hero-section{
+    text-align: right;
+}
+.hero-section .col-md-6 img {
+    border-radius: 10px;
+}
+
+.carousel img {
+  max-height: 400px;
+  object-fit: cover;
+}
+
+footer {
+  background-color: #343a40;
+  color: #ffffff;
+}
